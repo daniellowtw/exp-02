@@ -26,6 +26,10 @@ A command-line tool to post to multiple microblogging platforms.
 
 ## Usage
 
-```bash
-python src/main.py
-```
+1.  **Place an image file** (e.g., `.jpg`, `.png`) in the same directory as the script.
+2.  Run the script:
+
+    ```bash
+    python src/main.py
+    ```
+3.  Enter the text for your post when prompted. If you leave the text empty, the image's filename will be used as the post text.
